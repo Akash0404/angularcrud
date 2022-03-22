@@ -1,0 +1,89 @@
+{
+  "posts": [
+    {
+      "id": 8,
+      "firstName": "sagar",
+      "lastName": "mane",
+      "email": "sagar@gmail.com",
+      "mobile": "8989898989",
+      "salary": "40,000"
+    },
+    {
+      "id": 3,
+      "firstName": "anisha",
+      "lastName": "bhise",
+      "email": "anisha@gmail.com",
+      "mobile": "909090999",
+      "salary": "60,000"
+    },
+    {
+      "id": 9,
+      "firstName": "a",
+      "lastName": "a",
+      "email": "a@gmail.com",
+      "mobile": "89898989",
+      "salary": "78,00"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Shashi Yadav",
+      "email": "shashi@gmail.com",
+      "password": "Shashi@123",
+      "mobile": 9898989898,
+      "id": 1
+    },
+    {
+      "fullname": "swapnil hegde",
+      "email": "swapnil@gmail.com",
+      "password": "swapnil@123",
+      "mobile": 7878787878,
+      "id": 2
+    },
+    {
+      "fullname": "chandrakant awate",
+      "email": "chandrakant@gmail.com",
+      "password": "12345",
+      "mobile": 9090909090,
+      "id": 3
+    },
+    {
+      "fullname": "tejaswi mane",
+      "email": "tejaswi@gmail.com",
+      "password": "12345",
+      "mobile": 9898989896,
+      "id": 4
+    },
+    {
+      "fullname": "shubhash gaikwad",
+      "email": "shubhash@gmail.com",
+      "password": "12345",
+      "mobile": 8989898989,
+      "id": 5
+    },
+    {
+      "fullname": "shubhash gaikwad",
+      "email": "shubhash@gmail.com",
+      "password": "12345",
+      "mobile": 8989898989,
+      "id": 6
+    },
+    {
+      "fullname": "shubhash gaikwad",
+      "email": "shubhash@gmail.com",
+      "password": "12345",
+      "mobile": 8989898989,
+      "id": 7
+    },
+    {
+      "fullname": "ravi mane",
+      "email": "ravi@gmail.com",
+      "password": "12345",
+      "mobile": 9898675890,
+      "id": 8
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
